@@ -1,6 +1,5 @@
 //Tristan Howard
 //CSCI 3410
-// Some methods were looked up using StackOverflow and java api, jake's tutor session
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.Scanner;
